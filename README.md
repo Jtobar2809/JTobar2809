@@ -1,7 +1,6 @@
 # Hi, I'm Jonathan 👋
 
-I'm a Software Development student in my final semester, focused on
-**Fullstack web development and data-oriented applications**.
+Full Stack Developer focused on building modern web and mobile applications using React, Node.js and TypeScript.
 
 ### 🛠️ Tech Stack
 - Frontend: React, TypeScript, Tailwind CSS
